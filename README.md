@@ -1,0 +1,2 @@
+# labyrinth
+find optimal way
